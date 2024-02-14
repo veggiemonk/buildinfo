@@ -2,6 +2,12 @@
 
 Extract build information from Go binary
 
+## Install 
+
+```
+go install github.com/veggiemonk/buildinfo@latest
+```
+
 ## Usage
 
 Mostly used to update binaries that were install with `go install`.
